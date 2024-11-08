@@ -5,14 +5,14 @@ margin: 0px;
 }
 
 header {
-border-bottom: solid 2px rgb(42, 122, 228);
+border-bottom: solid 2px rgb(#6C2C91);
 padding: 20px;
 font-size: 32px;
-color: rgb(42, 122, 228);
+color: rgb(3D1F77);
 }
 
 section {
-background: rgb(184,156,213);
+background: rgb(#6600FF);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
